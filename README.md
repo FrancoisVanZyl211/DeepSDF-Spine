@@ -4,7 +4,7 @@ This repository contains the source code and documentation for the APPS597 proje
 
 ## Video Demonstration
 A full video demonstration of the software's features, including the interactive fitting process, is available here:
-   * Video Example
+* ** Video Example**
 
 * **Medical Image Viewer:** Load and visualize volumetric NIfTI scans (MRI/CT) with a 2D slice viewer.
 * **Interactive Segmentation Tools:**
