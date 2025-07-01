@@ -1,8 +1,8 @@
-# DeepSDF-Spine
+# 🩻 DeepSDF-Spine 🩻
 # Interactive DeepSDF-based Vertebra Fitting from MRI
 This repository contains the source code and documentation for the APPS597 project report, "3D Shape Representation using DeepSDF on MRI vertebrae," completed at the University of Otago. The project is a Python application with a comprehensive PyQt5 GUI for training a multi-shape DeepSDF model and interactively fitting it to medical imaging data, specifically MRI scans of human lumbar vertebrae.
 
-## Video Demonstration
+## 📽️ Video Demonstration
 A full video demonstration of the software's features, including the interactive fitting process, is available here:
 * ** Video Example**
 
@@ -21,7 +21,7 @@ A full video demonstration of the software's features, including the interactive
 * **Quantitative Analysis:**
     * Built-in tools to compute **Chamfer Distance** for reconstruction accuracy and **AABB-IoU** for fitting alignment.
  
-Technology Stack
+📽️ Technology Stack
 * **Language:** Python 3
 * **Core Libraries:** PyTorch, NumPy, SciPy
 * **GUI:** PyQt5
@@ -47,7 +47,7 @@ Technology Stack
     * The training data used in this project can be sourced from the [3D Lumbar Vertebrae Data Set](https://figshare.com/articles/dataset/3D_Lumbar_Vertebrae_Data_Set/3493643) and the [Spine Segmentation from CT Scans](https://www.kaggle.com/datasets/pycadmk/spine-segmentation-from-ct-scans) dataset.
     * Place the data in the `/data` folder
 
-## Usage & Workflow
+## 📊 Usage & Workflow
 
 The application is divided into two main workflows, managed through the GUI.
 
